@@ -54,6 +54,7 @@ body {
   border-radius: 5px;
   transition: 0.4s;
   cursor: pointer;
+  outline: none;
 }
 #btns input[type="button"]:hover {
   transform: scale(1.05);
